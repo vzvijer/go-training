@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Printf("%d", 1<<1)
-	fmt.Println()
+	s := []int{1, 2, 3}
+	fmt.Println(s)
 }
